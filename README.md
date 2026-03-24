@@ -1,1 +1,1 @@
-# Repositori untuk pratikum biioinformatika
+# Repositori untuk pratikum bioinformatika
